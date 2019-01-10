@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+header {
+  background-color: lightskyblue;
+  width: 100vw; /* VW = View Width - the width of the window */
+  height: 80px;
+  padding: 10px 20px;
+}
+
+#wrapper {
+  width: 75%;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+img {
+  float: left;
+  width: 200px;
+  margin-right: 25px;
+}
